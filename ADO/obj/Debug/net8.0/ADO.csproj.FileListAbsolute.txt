@@ -1,0 +1,17 @@
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\ADO\bin\Debug\net8.0\ADO.exe
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\ADO\bin\Debug\net8.0\ADO.deps.json
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\ADO\bin\Debug\net8.0\ADO.runtimeconfig.json
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\ADO\bin\Debug\net8.0\ADO.dll
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\ADO\bin\Debug\net8.0\ADO.pdb
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\ADO\bin\Debug\net8.0\Npgsql.dll
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\ADO\obj\Debug\net8.0\ADO.csproj.AssemblyReference.cache
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\ADO\obj\Debug\net8.0\ADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\ADO\obj\Debug\net8.0\ADO.AssemblyInfoInputs.cache
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\ADO\obj\Debug\net8.0\ADO.AssemblyInfo.cs
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\ADO\obj\Debug\net8.0\ADO.csproj.CoreCompileInputs.cache
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\ADO\obj\Debug\net8.0\ADO.csproj.Up2Date
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\ADO\obj\Debug\net8.0\ADO.dll
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\ADO\obj\Debug\net8.0\refint\ADO.dll
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\ADO\obj\Debug\net8.0\ADO.pdb
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\ADO\obj\Debug\net8.0\ADO.genruntimeconfig.cache
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\ADO\obj\Debug\net8.0\ref\ADO.dll
