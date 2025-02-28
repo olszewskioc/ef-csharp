@@ -2,6 +2,7 @@
 
 - [Guide ADO](#guide-to-using-ado)
 - [Guide Entity Framework](#guide-to-using-entity-framework)
+- [Guide Dapper](#guide-to-using-dapper)
 - [Organization of Folders](#organization-of-folders)
 
 ## Guide to Using ADO
@@ -71,6 +72,10 @@ Run the following command in the Package Manager Console to apply the migrations
 ```sh
 ef database update
 ```
+
+## Guide to use Dapper
+
+### Step 1: Install Dapper
 
 ## Organization of Folders
 
