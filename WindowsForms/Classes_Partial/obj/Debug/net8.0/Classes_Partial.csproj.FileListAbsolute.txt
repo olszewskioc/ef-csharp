@@ -1,0 +1,15 @@
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Classes_Partial\bin\Debug\net8.0\Classes_Partial.exe
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Classes_Partial\bin\Debug\net8.0\Classes_Partial.deps.json
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Classes_Partial\bin\Debug\net8.0\Classes_Partial.runtimeconfig.json
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Classes_Partial\bin\Debug\net8.0\Classes_Partial.dll
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Classes_Partial\bin\Debug\net8.0\Classes_Partial.pdb
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Classes_Partial\obj\Debug\net8.0\Classes_Partial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Classes_Partial\obj\Debug\net8.0\Classes_Partial.AssemblyInfoInputs.cache
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Classes_Partial\obj\Debug\net8.0\Classes_Partial.AssemblyInfo.cs
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Classes_Partial\obj\Debug\net8.0\Classes_Partial.csproj.CoreCompileInputs.cache
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Classes_Partial\obj\Debug\net8.0\Classes_Partial.sourcelink.json
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Classes_Partial\obj\Debug\net8.0\Classes_Partial.dll
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Classes_Partial\obj\Debug\net8.0\refint\Classes_Partial.dll
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Classes_Partial\obj\Debug\net8.0\Classes_Partial.pdb
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Classes_Partial\obj\Debug\net8.0\Classes_Partial.genruntimeconfig.cache
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Classes_Partial\obj\Debug\net8.0\ref\Classes_Partial.dll

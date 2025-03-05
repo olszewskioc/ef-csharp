@@ -1,0 +1,15 @@
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Exemplo_Console_Forms\bin\Debug\net8.0-windows\Exemplo_Console_Forms.exe
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Exemplo_Console_Forms\bin\Debug\net8.0-windows\Exemplo_Console_Forms.deps.json
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Exemplo_Console_Forms\bin\Debug\net8.0-windows\Exemplo_Console_Forms.runtimeconfig.json
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Exemplo_Console_Forms\bin\Debug\net8.0-windows\Exemplo_Console_Forms.dll
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Exemplo_Console_Forms\bin\Debug\net8.0-windows\Exemplo_Console_Forms.pdb
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Exemplo_Console_Forms\obj\Debug\net8.0-windows\Exemplo_Console_Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Exemplo_Console_Forms\obj\Debug\net8.0-windows\Exemplo_Console_Forms.AssemblyInfoInputs.cache
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Exemplo_Console_Forms\obj\Debug\net8.0-windows\Exemplo_Console_Forms.AssemblyInfo.cs
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Exemplo_Console_Forms\obj\Debug\net8.0-windows\Exemplo_Console_Forms.csproj.CoreCompileInputs.cache
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Exemplo_Console_Forms\obj\Debug\net8.0-windows\Exemplo_Console_Forms.sourcelink.json
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Exemplo_Console_Forms\obj\Debug\net8.0-windows\Exemplo_Console_Forms.dll
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Exemplo_Console_Forms\obj\Debug\net8.0-windows\refint\Exemplo_Console_Forms.dll
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Exemplo_Console_Forms\obj\Debug\net8.0-windows\Exemplo_Console_Forms.pdb
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Exemplo_Console_Forms\obj\Debug\net8.0-windows\Exemplo_Console_Forms.genruntimeconfig.cache
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Exemplo_Console_Forms\obj\Debug\net8.0-windows\ref\Exemplo_Console_Forms.dll

@@ -79,3 +79,8 @@ ef database update
 
 ## Organization of Folders
 
+- ADO: Example of how to use ADO.NET to connect to a database
+- EntityFramework: Example of how to use Entity Framework to connect to a database
+- Dapper: Example of how to use Dapper to connect to a database
+- WindowForms: Example of how to use Windows Forms
+

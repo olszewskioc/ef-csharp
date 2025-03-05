@@ -1,0 +1,16 @@
+﻿<!-- Para executar em formato de Windows Forms, precisamos mudar
+a biblioteca do SDK -->
+<!-- <Project Sdk="Microsoft.NET.Sdk"> -->
+
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <!-- <TargetFramework>net8.0</TargetFramework> -->
+    <TargetFramework>net8.0-Windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
