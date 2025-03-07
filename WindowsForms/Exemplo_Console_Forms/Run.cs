@@ -127,7 +127,7 @@ namespace Exemplo_Console_Forms
             this.buttonAdd.BackColor = Color.DarkGreen;
             this.buttonAdd.ForeColor = Color.White;
 
-            this.buttonAdd.Click += new EventHandler(this.ButtonAdd_Click); // Evento para tratar o click do botõ
+            this.buttonAdd.Click += new EventHandler(this.ButtonAdd_Click!); // Evento para tratar o click do botõ
             
             this.Controls.Add(this.buttonAdd);
             // Sub Button
@@ -139,7 +139,7 @@ namespace Exemplo_Console_Forms
             this.buttonSub.BackColor = Color.DarkKhaki;
             this.buttonSub.ForeColor = Color.White;
 
-            this.buttonSub.Click += new EventHandler(this.ButtonSub_Click); // Evento para tratar o click do botõ
+            this.buttonSub.Click += new EventHandler(this.ButtonSub_Click!); // Evento para tratar o click do botõ
             
             this.Controls.Add(this.buttonSub);
 
@@ -152,7 +152,7 @@ namespace Exemplo_Console_Forms
             this.buttonMul.BackColor = Color.DarkRed;
             this.buttonMul.ForeColor = Color.White;
 
-            this.buttonMul.Click += new EventHandler(this.ButtonMul_Click); // Evento para tratar o click do botõ
+            this.buttonMul.Click += new EventHandler(this.ButtonMul_Click!); // Evento para tratar o click do botõ
             
             this.Controls.Add(this.buttonMul);
 
@@ -165,7 +165,7 @@ namespace Exemplo_Console_Forms
             this.buttonDiv.BackColor = Color.DarkCyan;
             this.buttonDiv.ForeColor = Color.White;
 
-            this.buttonDiv.Click += new EventHandler(this.ButtonDiv_Click); // Evento para tratar o click do botõ
+            this.buttonDiv.Click += new EventHandler(this.ButtonDiv_Click!); // Evento para tratar o click do botõ
             
             this.Controls.Add(this.buttonDiv);}
 
@@ -247,9 +247,9 @@ namespace Exemplo_Console_Forms
             tabControl = new TabControl { Dock = DockStyle.Fill };
 
             tabControl.DrawMode = TabDrawMode.OwnerDrawFixed; // Permite desenho personalizado
-            tabControl.DrawItem += TabControl_DrawItem;
-            tabControl.MouseMove += TabControl_MouseMove;
-            tabControl.MouseLeave += TabControl_MouseLeave;
+            tabControl.DrawItem += TabControl_DrawItem!;
+            tabControl.MouseMove += TabControl_MouseMove!;
+            tabControl.MouseLeave += TabControl_MouseLeave!;
 
             tabPage1 = new TabPage { Text = "Home" };
             tabPage2 = new TabPage { Text = "Calculadora" };

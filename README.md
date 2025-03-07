@@ -77,6 +77,16 @@ ef database update
 
 ### Step 1: Install Dapper
 
+## Using appsetting.json
+
+    Microsoft.EntityFrameworkCore
+    Microsoft.EntityFrameworkCore.Design
+    Microsoft.Extensions.Configuration
+    Microsoft.Extensions.Configuration.Binder
+    Microsoft.Extensions.Configuration.FileExtensions
+    Microsoft.Extensions.Configuration.Json
+    Npgsql.EntityFrameworkCore.PostgreSQL
+
 ## Organization of Folders
 
 - ADO: Example of how to use ADO.NET to connect to a database
