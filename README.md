@@ -94,3 +94,7 @@ ef database update
 - Dapper: Example of how to use Dapper to connect to a database
 - WindowForms: Example of how to use Windows Forms
 
+## New Commands
+
+`dotnet publish -r win-x64 -c Release`
+

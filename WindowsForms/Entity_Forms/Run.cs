@@ -46,7 +46,7 @@ namespace Entity_Forms
         private void InitializeComponent()
         {
             // Definindo as propriedades iniciais do formulário
-            // this.Icon = new System.Drawing.Icon("icon.png");
+            this.Icon = new System.Drawing.Icon("icon.ico");
             this.Text = "Exemplo CRUD com TableLayoutPanel";
             this.Size = new Size(800, 500);
             this.StartPosition = FormStartPosition.CenterScreen;
@@ -121,7 +121,7 @@ namespace Entity_Forms
         }
 
         // Método para criar um botão com estilização padronizada
-        private async Task<Button> CreateButton(string text, Color color, string url)
+        private async Task<Button> CreateButton(string text, Color color, string url)   // Task para utilizar await e assim não travar o programa
         {
             Button botao = new Button
             {
@@ -137,13 +137,13 @@ namespace Entity_Forms
 
             try
             {
-                using (var client = new HttpClient())
+                using (var client = new HttpClient())   // Usando HttpClient para fazer requisição
                 {
-                    byte[] imageBytes = await client.GetByteArrayAsync(url);
+                    byte[] imageBytes = await client.GetByteArrayAsync(url);    // Baixando a imagem
 
-                    using (var ms = new MemoryStream(imageBytes))
+                    using (var ms = new MemoryStream(imageBytes))   // Convertendo a imagem em um MemoryStream
                     {
-                        botao.Image = Image.FromStream(ms);
+                        botao.Image = Image.FromStream(ms); // Adicionando a imagem ao botão
                         botao.Image = new Bitmap(botao.Image, new Size(30, 30)); // Redimensionamento direto
                     }
                 }

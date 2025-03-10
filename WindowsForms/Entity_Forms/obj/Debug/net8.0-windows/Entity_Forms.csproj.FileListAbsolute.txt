@@ -123,3 +123,4 @@ C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Entity_Forms\obj\
 C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Entity_Forms\obj\Debug\net8.0-windows\Entity_Forms.pdb
 C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Entity_Forms\obj\Debug\net8.0-windows\Entity_Forms.genruntimeconfig.cache
 C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Entity_Forms\obj\Debug\net8.0-windows\ref\Entity_Forms.dll
+C:\Users\thiagocarvalho\Documents\Digix\ef-chsarp\WindowsForms\Entity_Forms\bin\Debug\net8.0-windows\icon.ico
